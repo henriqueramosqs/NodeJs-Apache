@@ -1,4 +1,4 @@
-# Aplicação Node JS em um servidor Apache
+# Aplicação Node.js em um servidor Apache
   
   &nbsp; O código aqui escrito descreve o processo de configuração e execução de uma aplicação em NodeJs para um servidor Apache. 
   <br>
