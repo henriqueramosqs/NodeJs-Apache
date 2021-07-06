@@ -3,7 +3,7 @@
   &nbsp; O código aqui escrito descreve o processo de configuração e execução de uma aplicação em NodeJs para um servidor Apache. 
   <br>
    <br>
-  &nbsp; &nbsp; ps: esse repositório foi criado como material de apoio para o vídeo do mesmo assunto em: 
+  &nbsp; &nbsp; ps: esse repositório foi criado como material de apoio para o vídeo do mesmo assunto em: https://youtu.be/D06nEC6G8M0
 ## Tecnologias utilizadas
 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
