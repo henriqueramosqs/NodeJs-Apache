@@ -17,6 +17,6 @@
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <br>
 
-# Inspiração
+## Inspiração e concepção
 
-&nbsp; @pierangelo1982
+&nbsp; <a href="https://github.com/pierangelo1982">Pierangelo</a>
