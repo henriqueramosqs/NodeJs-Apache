@@ -1,10 +1,22 @@
 # Aplicação Node JS em um servidor Apache
- 
+  
+  &nbsp; O código aqui escrito descreve o processo de configuração e execução de uma aplicação em NodeJs para um servidor Apache. 
+  <br>
+   <br>
+  &nbsp; &nbsp; ps: esse repositório foi criado como material de apoio para o vídeo do mesmo assunto em: 
 ## Tecnologias utilizadas
-https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
-https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/APACHE-d22128?style=for-the-badge&logo=APACHE&logoColor=white
 
-@pierangelo1982
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img align="left" alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+
+<img align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img align="left" alt="ubuntu" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<br>
+
+# Inspiração
+
+&nbsp; @pierangelo1982
